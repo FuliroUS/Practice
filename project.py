@@ -6,3 +6,5 @@ print("1 2_branch")
 print("2 2_branch")
 
 print("Merge 2_branch")
+
+print("4 main branch")
